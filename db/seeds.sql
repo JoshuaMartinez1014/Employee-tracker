@@ -3,7 +3,7 @@ VALUES ("DESIGN"),
        ("BACK-END"),
        ("Front-END");
 
-INSERT INTO roles (title, salary)
+INSERT INTO roles (title, salary, )
 VALUES ("CEO", 550),
        ("DEVELOPER", 120),
        ("MANAGER", 250);
