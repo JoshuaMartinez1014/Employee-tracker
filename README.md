@@ -40,6 +40,8 @@ The following video shows an example of the application being used from the comm
 
 ![A video thumbnail shows the command-line employee management application with a play button overlaying the view.](./demo.webm)
 
+- Link to video as backup: https://drive.google.com/file/d/1-xQOV_ANLRH6PRgVlWoyHi-8acBszdu_/view
+
 ---
 
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
